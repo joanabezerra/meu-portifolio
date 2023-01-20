@@ -163,12 +163,18 @@ a {
     font-weight: 700;
 }
 
+.titulo-post a {
+    float: inherit;
+}
+
 .data {
-    margin-bottom: 18px;
+    margin-bottom: 10px;
+    clear: both;
 }
 
 .descricao-post {
     font-size: 16px;
+    margin-bottom: 15px;
 }
 
 .hash-tags {
@@ -203,6 +209,10 @@ a {
 }
 
 /* Tecnologias */
+
+.cx-esq-tec {
+    clear: inherit;
+}
 
 .tecnologias {
     padding: 0px 30px 10px 20px;
