@@ -41,7 +41,7 @@ body {
 }
 
 .textos {
-    color: gray;
+    color: white;
     font-family: system-ui;
     font-size: 14px;
     font-weight: 600;
@@ -74,7 +74,7 @@ body {
 /* Estilo Bloco Meus Projetos */
 
 a {
-    color: gray;
+    color: white;
     text-decoration: none;
     float: right;
     margin-right: 10px;
@@ -130,7 +130,7 @@ a {
 
 #eclipse {
     background-color: #E7DE79;
-    border: 2px solid gray;
+    border: 2px solid white;
     border-radius: 180px;
     margin-right: 7px;
     font-size: 0px;
